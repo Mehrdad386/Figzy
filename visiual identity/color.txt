@@ -1,0 +1,43 @@
+BRAND NAME: FIGURA
+
+Primary / رنگ اصلی:
+#20C997
+
+Primary Dark:
+#0F8F72
+
+Primary Light:
+#DDF8F1
+
+Accent:
+#17B890
+
+Background:
+#F8FCFB
+
+Section Background:
+#F0F8F6
+
+Card Background:
+#FFFFFF
+
+Text Primary:
+#151A19
+
+Text Secondary:
+#66736F
+
+Border / Divider:
+#DDEBE7
+
+Success:
+#20C997
+
+Discount / Sale:
+#FF5C8A
+
+White:
+#FFFFFF
+
+Black:
+#111111
